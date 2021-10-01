@@ -1,0 +1,5 @@
+eula.properties
+graphviz/*
+images/*
+logs/*
+workspace.json
